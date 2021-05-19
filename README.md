@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/30964883/118740612-eae89d00-b811-11eb-9e46-2551f6780d14.png)
+
 # NgVideoGameDb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
